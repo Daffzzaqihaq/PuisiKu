@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">Puisi Ku</string>
+    <string-array name="name">
+        <item>AKU DISINI</item>
+        <item>Pejuang Kehidupan</item>
+        <item>Puisi Tak Akan Ku Lupa</item>
+        <item>Puisi Sahabat</item>
+        <item>Guru
+</item>
+        <item>Petani</item>
+    </string-array>
+
+    <string-array name="detail">
+        <item>Aku masih disini \n
+Merawat rindu di tepi sunyi \n
+Selalu setia menemani \n
+Suka duka cinta ikhlas ku jalani \n
+Rasa ini, mengurat nadi menyanubari \n
+Kau selalu indah dihati \n
+Rindu temani sepi ku
+        </item>
+        <item>Aku berjalan membelah jagad\n
+Menerawang lautan pengetahuan\n
+Menelisik jalan kehidupan\n
+Di sini, aku maju sebagai pejuang\n \n
+
+Tak kenal letih demi impian\n
+Biarkan keringat mengalir deras\n
+Agar menjadi kesaksian\n
+Kita sang Pejuang Kehidupan\n</item>
+        <item>Saat koridor-koridor itu mulai terbasahi.\n
+Gelap menyelimuti setiap orang berseragam.\n
+Kau datang membawakanku pelangi,\n
+saat hujan luka itu masih menari diatas perih.\n
+Kau hadirkan senyum terindah,\n
+saat aku tenggelam dalam larutnya kegelapan.\n
+Sedikitpun tak akan ku lupa,\n
+saat kau membawaku ke kehidupan.\n
+Sedikitpun tak akan ku lupa,\n
+saat senyummu menjadi satu2nya nafas untukku.\n \n
+
+Didedikasikan utk seorang sahabat di masa SMA</item>
+        <item>SAHABAT . . .\n
+Kau bagaikan orang tua\n
+di waktu aku butuh nasihat\n
+kau bagaikan obat di waktu aku sakit</item>
+        <item>Sabar, sabar, dan sabar\n
+Sabar menghadapai kami\n
+Sabar dengan ke ikhlasan\n
+Ibu…\n
+Bapak…\n
+Engkau guru yang teladan\n
+Tanpa tanda jasa\n
+Tanpamu kami bukan apa-apa\n
+
+</item>
+        <item>Burung-burung berkicauan\n
+Langit biru nan indah\n
+Mengiringi langkah sang petani\n
+Melangkah demi…\n
+Kemakmuran rakyat lndonesia\n
+Kau menanam padi\n
+Untuk pangan rakyat Indonesia\n
+Tanpamu…\n
+Indonesia tak punya beras\n
+
+</item>
+    </string-array>
+</resources>
